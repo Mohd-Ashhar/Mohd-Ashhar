@@ -1,9 +1,30 @@
-👋 Hey there! I'm Ashhar, a passionate full stack web developer with a knack for crafting immersive digital experiences. My journey in the world of web development began with a fascination for coding and a desire to bring ideas to life through technology.
+# 😎 Mohd Ashhar
 
-💻 On the front-end, I specialize in creating responsive and user-friendly interfaces using modern web technologies like HTML5, CSS3, and JavaScript. I'm a big advocate for clean and maintainable code, and I enjoy exploring the latest trends and frameworks to continually enhance my skills.
 
-🛠️ When it comes to the back-end, I thrive on building robust and scalable solutions. I have experience working with languages like Node.js, Python, and PHP, and I'm adept at designing databases, creating APIs, and integrating various systems to deliver seamless functionality.
+**`Digital Craftsman(Developer/Programmer)`**
 
-🚀 Whether it's developing dynamic web applications, optimizing performance, or solving complex technical challenges, I'm always up for the task. I believe in the power of collaboration and continuous learning, and I'm excited to contribute to innovative projects that push the boundaries of what's possible on the web.
 
-🌐 Let's connect and build something amazing together! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss ideas. Happy coding! 🚀
+I am a full-stack web developer and a programming enthusiast building my version of the digital world. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="MongoBD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />  
+<img align="left" alt="ExpressJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />     
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+<img align="left" alt="BootStrap" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />            
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="FireBase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="AppWrite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" />
+<img align="left" alt="OAuth" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" />
+<br />
+
+#
+
